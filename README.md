@@ -2,8 +2,7 @@
 
 This is a pre-work for codepath ios for designer bootcamp. The project is done in Xcode using swift for iPhone 5.
 
-How many hours did it take to complete?
- * About 2 hours - I was playing around with the configuration and animation.
+ * It takes about 2 hours to complete including watching the video - I was also playing around with the configuration and animation.
 
 Completed user stories:
 
